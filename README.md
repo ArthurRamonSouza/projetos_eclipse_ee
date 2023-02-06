@@ -1,2 +1,2 @@
 # projetos_eclipse_ee
-Salvar os códigos salvos na minha máquina
+Salvando alguns códigos da minha máquina, feitos baseados em videoaulas e desafios.
